@@ -2,7 +2,9 @@
 
 ###
 
-![gift](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhjemZwaWRmY3NpbmZ4bGVzM2dreDI1Znl6ZGF2cXd2a3k1NHhiYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CXnj3jCwvETngjy11B/giphy.gif)
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhjemZwaWRmY3NpbmZ4bGVzM2dreDI1Znl6ZGF2cXd2a3k1NHhiYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CXnj3jCwvETngjy11B/giphy.gif"  />
+</div>
 
 ###
 
@@ -64,12 +66,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matzgans&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h4 align="center">Profile View</h4>
 
 ###
@@ -80,6 +76,18 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/matzgans/matzgans/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matzgans&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matzgans/matzgans/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matzgans/matzgans/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matzgans/matzgans/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
